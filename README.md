@@ -22,9 +22,9 @@ Masing-masing entitas diatur melalui:
 - **View**: Untuk tampilan HTML dinamis
 - **Controller**: Untuk mengatur alur logika aplikasi dan permintaan pengguna
 
-Semua halaman menggunakan `index.html` sebagai **template utama** dengan konten yang dimuat secara dinamis menggunakan kelas `Template`, lalu pada add/tambah dan edit/ubah data menggunakan `form.html` sebagai template-nya.
+Semua halaman menggunakan `index.html` sebagai **template utama** dengan konten yang dimuat secara dinamis menggunakan kelas `Template`, lalu pada add/tambah dan edit/ubah data menggunakan `form.html` sebagai template-nya
 
-Database bernama `tp_mvc` menggunakan MariaDB.
+Database bernama `tp_mvc` menggunakan MariaDB
 
 ---
 
